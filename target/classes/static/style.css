@@ -1,0 +1,24 @@
+body {
+    background: linear-gradient(135deg, #f7faff 0%, #eef4ff 100%);
+    min-height: 100vh;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.upload-box {
+    border: 2px dashed #9ec5fe !important;
+    background: #f8fbff;
+    transition: all 0.2s ease;
+}
+
+.upload-box.drag-over {
+    background: #eaf4ff;
+    border-color: #0d6efd !important;
+}
+
+.card {
+    box-shadow: 0 10px 30px rgba(15, 23, 42, 0.06);
+}
+
+.result-card {
+    border: 1px solid #e5ecf7;
+}

@@ -1,0 +1,6 @@
+2026-06-27 INFO Application Started
+2026-06-27 INFO User Login Success
+2026-06-27 WARN Database Connection Slow
+2026-06-27 ERROR java.lang.NullPointerException at UserService.java:45
+2026-06-27 INFO Request Completed
+2026-06-27 ERROR java.net.SocketTimeoutException while calling Payment API
