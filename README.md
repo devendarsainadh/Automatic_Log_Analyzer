@@ -12,7 +12,7 @@ A simple Spring Boot 3.5+ application that uploads a log file, extracts WARN and
 
 ## Requirements
 
-- Java 21
+- Java 17
 - Maven
 - An OpenAI API key
 
